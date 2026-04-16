@@ -4,8 +4,8 @@ A simple web-based typing speed test application built with **HTML, CSS, and Jav
 This project allows users to measure their typing speed (words per minute), accuracy, and overall performance.
 
 ---
-#Demo
-link:
+#
+link:https://mehakanthwal.github.io/typingspeed/
 
 ## 🚀 Features
 - Displays a random passage for the user to type.
